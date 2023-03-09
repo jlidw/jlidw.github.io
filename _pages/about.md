@@ -19,13 +19,14 @@ Data-driven machine learning, time series data, spatio-temporal data.
 ## Publications  
 * "SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation." \[To appear\]   
 **Jia Li**, Yanyan Shen, Lei Chen, and Charles Wang Wai Ng. In the 2023 International Conference on Management of Data. **(SIGMOD 2023)}**
-*Output of Project "Centre for Slope Safety".*
+\-*Output of Project "Centre for Slope Safety".*
 
 * "Rainfall Spatial Interpolation with Graph Neural Networks." \[To appear\]   
-**Jia Li**, Yanyan Shen, Lei Chen, and Charles Wang Wai Ng. In the 28th International Conference on Database Systems for Advanced Applications. **(DASFAA 2023)**   *Output of Project "Centre for Slope Safety".*
+**Jia Li**, Yanyan Shen, Lei Chen, and Charles Wang Wai Ng. In the 28th International Conference on Database Systems for Advanced Applications. **(DASFAA 2023)**   
+\-*Output of Project "Centre for Slope Safety".*
 
 * "FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection."  
-**Jia Li**, Shimin Di, Yanyan Shen, and Lei Chen. In Proceedings of the 14th ACM International Conference on Web Search and Data Mining. **(WSDM 2021)** *Output of Project "Time Series Anomaly Analysis in AIOps".*      
+**Jia Li**, Shimin Di, Yanyan Shen, and Lei Chen. In Proceedings of the 14th ACM International Conference on Web Search and Data Mining. **(WSDM 2021)** \-\-*Output of Project "Time Series Anomaly Analysis in AIOps".*      
 [\[Paper\]]([https://www.cse.ust.hk/~leichen/](https://dl.acm.org/doi/10.1145/3437963.3441823)), [\[Code\]]([https://github.com/jlidw/FluxEV])
 
 ## Research Projects   
