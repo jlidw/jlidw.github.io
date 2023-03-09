@@ -49,4 +49,4 @@ Task B1: Artificial Intelligence (AI) and Machine Learning (ML).
 * MSBD 5002: Data Mining and	 Knowledge Discover, HKUST. (Fall 2018)   
 
 -----
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GJoOHhNimnU6un2_yTVbCrmkoqzrFNIcYVxldRVlGJA&cl=ffffff&w=a"></script> 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=GJoOHhNimnU6un2_yTVbCrmkoqzrFNIcYVxldRVlGJA"></script>
