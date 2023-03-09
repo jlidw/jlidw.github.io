@@ -26,7 +26,7 @@ Data-driven machine learning, time series data, spatio-temporal data.
 \-*Output of Project "Centre for Slope Safety".*
 
 * "FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection."  
-**Jia Li**, Shimin Di, Yanyan Shen, and Lei Chen. In Proceedings of the 14th ACM International Conference on Web Search and Data Mining. **(WSDM 2021)** [\[Paper\]](https://dl.acm.org/doi/10.1145/3437963.3441823), [\[Code\]](https://github.com/jlidw/FluxEV)        
+**Jia Li**, Shimin Di, Yanyan Shen, and Lei Chen. In Proceedings of the 14th ACM International Conference on Web Search and Data Mining. **(WSDM 2021)** [\[Paper\]](https://dl.acm.org/doi/10.1145/3437963.3441823)  [\[Code\]](https://github.com/jlidw/FluxEV)        
 \-*Output of Project "Time Series Anomaly Analysis in AIOps".*      
 
 ## Research Projects   
