@@ -36,8 +36,8 @@ Data-driven machine learning, time series data, spatio-temporal data.
 -- *Output of Project "Time Series Anomaly Analysis in AIOps".*      
 
 ## Research Projects   
-* "Centre for Slope Safety", 2019 - Present.
-Task B1: Artificial Intelligence (AI) and Machine Learning (ML).
+* "Centre for Slope Safety", 2019 - Present.      
+Task B1: Artificial Intelligence (AI) and Machine Learning (ML).     
 *Areas of Excellence Project.*
 
 * "Time Series Anomaly Analysis in AIOps", 2019 - 2020.   
