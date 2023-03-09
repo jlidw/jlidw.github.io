@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<!--
+PhD student at the Hong Kong University of Science and Technology
+
+Email: jlidw[AT]connect.ust.hk
+-->
+
 Currently I am a fourth-year Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by Professor [Lei Chen](https://www.cse.ust.hk/~leichen/). 
 Prior to that, I obtained my M.Sc. degree in Information Technology from HKUST in 2018 and the B.Eng. degree in Electronic Information Science and Technology from [Jinan University (JNU)](https://english.jnu.edu.cn/) in 2017.
 
