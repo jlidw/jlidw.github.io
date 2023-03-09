@@ -48,4 +48,7 @@ Task B1: Artificial Intelligence (AI) and Machine Learning (ML).
 * MSBD 6000e: Introduction to FinTech, HKUST. (Spring 2020)  
 * MSBD 5002: Data Mining and	 Knowledge Discover, HKUST. (Fall 2018)   
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=GJoOHhNimnU6un2_yTVbCrmkoqzrFNIcYVxldRVlGJA'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=GJoOHhNimnU6un2_yTVbCrmkoqzrFNIcYVxldRVlGJA'></script>
+ -->
+ 
+ <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GJoOHhNimnU6un2_yTVbCrmkoqzrFNIcYVxldRVlGJA"></script>
