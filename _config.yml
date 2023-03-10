@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jia Li's Homepage"
+title                    : "Jia's Homepage"
 title_separator          : "-"
 name                     : &name "Jia Li"
 description              : &description "Ph.D in Computer Science"
