@@ -27,7 +27,7 @@ Data-driven machine learning, time series data, spatio-temporal data.
 **Jia Li**, Yanyan Shen, Lei Chen, and Charles Wang Wai Ng. In the 2023 International Conference on Management of Data. **(SIGMOD 2023)**   
 -- *Output of Project "Centre for Slope Safety".*
 
-* "Rainfall Spatial Interpolation with Graph Neural Networks." [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_14)  [\[Code\]](https://github.com/jlidw/GSI)
+* "Rainfall Spatial Interpolation with Graph Neural Networks." [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_14)  [\[Code\]](https://github.com/jlidw/GSI)      
 **Jia Li**, Yanyan Shen, Lei Chen, and Charles Wang Wai Ng. In the 28th International Conference on Database Systems for Advanced Applications. **(DASFAA 2023)**   
 -- *Output of Project "Centre for Slope Safety".*
 
