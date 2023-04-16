@@ -19,7 +19,7 @@ Prior to that, I obtained the M.Sc. degree in Information Technology from HKUST 
 
 
 ## Research Interests   
-Data-driven machine learning, time series data, spatio-temporal data.
+Data-driven machine learning, time series data, spatial and temporal data.
 
 
 ## Publications  
