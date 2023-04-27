@@ -44,7 +44,7 @@ Task B1: Artificial Intelligence (AI) and Machine Learning (ML).
 * "Time Series Anomaly Analysis in AIOps", 2019 - 2020.   
 *HKUST-WeBank Joint Laboratory Project.*
 
-## Teaching Experience
+## Teaching Assistant
 * COMP 2611: Computer Organization, HKUST. (Fall 2022, Fall 2021, Spring 2021, Spring 2020)   
 * MSBD 6000e: Introduction to FinTech, HKUST. (Spring 2020)  
 * MSBD 5002: Data Mining and	 Knowledge Discover, HKUST. (Fall 2018)   
