@@ -24,7 +24,7 @@ Data-driven machine learning, time series data, spatial and temporal data.
 
 
 ## Publications  
-* "SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation." \[To appear\]   
+* "SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation." [\[Paper\]](https://doi.org/10.1145/3589321)  [\[Code\]](https://github.com/jlidw/SSIN)     
 **Jia Li**, Yanyan Shen, Lei Chen, and Charles Wang Wai Ng. In the 2023 International Conference on Management of Data. **(SIGMOD 2023)**   
 -- *Output of Project "Centre for Slope Safety".*
 
