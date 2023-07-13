@@ -39,7 +39,7 @@ Data-driven machine learning, time series data, spatial and temporal data.
 ## Research Projects   
 * ["Centre for Slope Safety"](https://slope-aoe.hkust.edu.hk/), 2019 - Present.      
 Task B1: Artificial Intelligence (AI) and Machine Learning (ML).     
-*Areas of Excellence Project.*
+*Areas of Excellence (AoE) Project. <font size=5> (香港特別行政區政府卓越學科領域計劃) </font>*
 
 * "Time Series Anomaly Analysis in AIOps", 2019 - 2020.   
 *HKUST-WeBank Joint Laboratory Project.*
