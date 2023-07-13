@@ -39,7 +39,7 @@ Data-driven machine learning, time series data, spatial and temporal data.
 ## Research Projects   
 * ["Centre for Slope Safety"](https://slope-aoe.hkust.edu.hk/), 2019 - Present.      
 Task B1: Artificial Intelligence (AI) and Machine Learning (ML).     
-*Areas of Excellence (AoE) Project. <font size=5> (香港特別行政區政府卓越學科領域計劃) </font>*
+*Areas of Excellence (AoE) Project. <font size=1> (香港特別行政區政府卓越學科領域計劃) </font>*
 
 * "Time Series Anomaly Analysis in AIOps", 2019 - 2020.   
 *HKUST-WeBank Joint Laboratory Project.*
@@ -47,5 +47,5 @@ Task B1: Artificial Intelligence (AI) and Machine Learning (ML).
 ## Teaching Assistant
 * COMP 2611: Computer Organization, HKUST. (Fall 2022, Fall 2021, Spring 2021, Spring 2020)   
 * MSBD 6000e: Introduction to FinTech, HKUST. (Spring 2020)  
-* MSBD 5002: Data Mining and	 Knowledge Discover, HKUST. (Fall 2018)   
+* MSBD 5002: Data Mining and Knowledge Discovery, HKUST. (Fall 2018)   
 
