@@ -46,6 +46,6 @@ Task B1: Artificial Intelligence (AI) and Machine Learning (ML).
 
 ## Teaching Assistant
 * COMP 2611: Computer Organization, HKUST. (Fall 2022, Fall 2021, Spring 2021, Spring 2020)   
-* MSBD 6000e: Introduction to FinTech, HKUST. (Spring 2020)  
+* MSBD 6000e: Introduction to FinTech, HKUST. (Spring 2020, Spring 2019)  
 * MSBD 5002: Data Mining and Knowledge Discovery, HKUST. (Fall 2018)   
 
